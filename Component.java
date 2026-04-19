@@ -1,4 +1,5 @@
 /**
+ * Program 3
  * This class represents a PC component such as a CPU, GPU, RAM, or storage device.
  * It is considered a simple object because it only uses primitive data types.
  * 
