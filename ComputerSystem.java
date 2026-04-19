@@ -1,4 +1,5 @@
 /**
+ * Program 3
  * This class represents a full computer system made up of multiple components.
  * It is considered a complex object because it contains other objects
  * (Component instances) as properties.
